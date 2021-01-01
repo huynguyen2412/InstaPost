@@ -1,16 +1,12 @@
 # insta_post
 
-InstaPost app allows the users to make and view posts with image and give comments from the posts.
+InstaPost app allows the users to make and view posts included images and give comments from the posts.
+The project is written using Flutter framework and Dart language.
 
-## Getting Started
+# Instruction to run the project:
+To get dependencies and upgrade: 
+flutter pub get
+flutter pub upgrade
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run project: 
+flutter run lib/main.dart
